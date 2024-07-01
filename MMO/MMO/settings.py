@@ -125,3 +125,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # адрес папки со статикой
 STATICFILES_DIRS = [BASE_DIR / 'static']
+
